@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyfc61c68560bf4-staging-50719-authRole",
+      "UnauthRoleArn": "arn:aws:iam::059437111214:role/amplify-amplifyfc61c68560bf4-staging-50719-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::059437111214:role/amplify-amplifyfc61c68560bf4-staging-50719-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifyfc61c68560bf4-staging-50719-deployment",
+      "UnauthRoleName": "amplify-amplifyfc61c68560bf4-staging-50719-unauthRole",
+      "StackName": "amplify-amplifyfc61c68560bf4-staging-50719",
+      "StackId": "arn:aws:cloudformation:us-east-1:059437111214:stack/amplify-amplifyfc61c68560bf4-staging-50719/b3379d30-6126-11eb-9e07-12704013453b",
+      "AmplifyAppId": "d3s02nkfn78w2w"
+    },
+    "categories": {
+      "auth": {
+        "sevenawaregraphqlv04": {}
+      }
+    }
+  }
+}
